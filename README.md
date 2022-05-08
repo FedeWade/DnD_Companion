@@ -6,6 +6,6 @@ The application is a pure C++ project developed with the Qt framework using Mode
 
 The complete documentation for this project can be found in the [relazione.pdf](relazione.pdf) file.
 
-## Screenshots
+## Screenshot
 
-<img src="dndScreenshot.png" width=400>
+<img src="dndScreenshot.png" width=600>
